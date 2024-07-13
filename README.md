@@ -19,6 +19,7 @@ GitHub: Version control and project management platform for code repository.
 Future Enhancements:
 	Adding more advanced cryptographic algorithms.
 	Improving the user interface with additional features and customizations.
+
 Author:
 Kamran Bader
 LinkedIn:
